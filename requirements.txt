@@ -1,0 +1,10 @@
+torch
+numpy
+pandas
+networkx
+tqdm
+texttable
+seaborn
+chart_studio
+sklearn
+nltk

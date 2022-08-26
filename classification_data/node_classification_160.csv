@@ -1,0 +1,161 @@
+ingredient,category
+marshmallow,Bakery/Dessert/Snack
+pancake,Bakery/Dessert/Snack
+cornbread,Bakery/Dessert/Snack
+biscuit,Bakery/Dessert/Snack
+pudding,Bakery/Dessert/Snack
+fudge,Bakery/Dessert/Snack
+white_bread,Bakery/Dessert/Snack
+bread,Bakery/Dessert/Snack
+rye_bread,Bakery/Dessert/Snack
+popcorn,Bakery/Dessert/Snack
+ice_cream,Bakery/Dessert/Snack
+chocolate,Bakery/Dessert/Snack
+cake,Bakery/Dessert/Snack
+bagel,Bakery/Dessert/Snack
+waffle,Bakery/Dessert/Snack
+raisin_bread,Bakery/Dessert/Snack
+potato_bread,Bakery/Dessert/Snack
+candy_bar,Bakery/Dessert/Snack
+dulce_de_leche,Bakery/Dessert/Snack
+marzipan,Bakery/Dessert/Snack
+apple_brandy,Beverage Alcoholic
+plum_wine,Beverage Alcoholic
+wine,Beverage Alcoholic
+vermouth,Beverage Alcoholic
+rum,Beverage Alcoholic
+kefir,Beverage Alcoholic
+sparkling_wine,Beverage Alcoholic
+cherry_brandy,Beverage Alcoholic
+port_wine,Beverage Alcoholic
+scotch_whisky,Beverage Alcoholic
+vodka,Beverage Alcoholic
+red_wine,Beverage Alcoholic
+beer,Beverage Alcoholic
+pear_brandy,Beverage Alcoholic
+white_wine,Beverage Alcoholic
+champagne,Beverage Alcoholic
+gin,Beverage Alcoholic
+margarine,Beverage Alcoholic
+brandy,Beverage Alcoholic
+sake,Beverage Alcoholic
+black_walnut,Cereal/Crop/Bean
+bean,Cereal/Crop/Bean
+chickpea,Cereal/Crop/Bean
+caper,Cereal/Crop/Bean
+wheat,Cereal/Crop/Bean
+soybean,Cereal/Crop/Bean
+corn,Cereal/Crop/Bean
+quinoa,Cereal/Crop/Bean
+tamale,Cereal/Crop/Bean
+barley,Cereal/Crop/Bean
+tortilla,Cereal/Crop/Bean
+flour,Cereal/Crop/Bean
+lentil,Cereal/Crop/Bean
+oat,Cereal/Crop/Bean
+rice,Cereal/Crop/Bean
+millet,Cereal/Crop/Bean
+sweetcorn,Cereal/Crop/Bean
+tostada,Cereal/Crop/Bean
+molasses,Cereal/Crop/Bean
+wild_rice,Cereal/Crop/Bean
+gruyere_cheese,Dairy
+butter,Dairy
+cheddar_cheese,Dairy
+cream_cheese,Dairy
+evaporated_milk,Dairy
+swiss_cheese,Dairy
+cheese,Dairy
+yogurt,Dairy
+mozzarella_cheese,Dairy
+whipping_cream,Dairy
+feta_cheese,Dairy
+milk,Dairy
+goat_cheese,Dairy
+ricotta_cheese,Dairy
+parmesan_cheese,Dairy
+mexican_oregano,Dairy
+buttermilk,Dairy
+condensed_milk,Dairy
+cocoa_butter,Dairy
+soy_yogurt,Dairy
+coconut,Fruit
+mango,Fruit
+kiwi,Fruit
+guava,Fruit
+lime,Fruit
+apple,Fruit
+pear,Fruit
+blueberry,Fruit
+pineapple,Fruit
+orange,Fruit
+lemon,Fruit
+melon,Fruit
+grape,Fruit
+peach,Fruit
+banana,Fruit
+lingonberry,Fruit
+grapefruit,Fruit
+pomegranate,Fruit
+papaya,Fruit
+raisin,Fruit
+turkey,Meat/Animal Product
+egg,Meat/Animal Product
+meatball,Meat/Animal Product
+beef,Meat/Animal Product
+buffalo,Meat/Animal Product
+lamb,Meat/Animal Product
+deer,Meat/Animal Product
+ham,Meat/Animal Product
+sausage,Meat/Animal Product
+rabbit,Meat/Animal Product
+mutton,Meat/Animal Product
+squab,Meat/Animal Product
+chicken,Meat/Animal Product
+pork,Meat/Animal Product
+ground_beef,Meat/Animal Product
+liver,Meat/Animal Product
+marrow,Meat/Animal Product
+pork_belly,Meat/Animal Product
+pork_chop,Meat/Animal Product
+tenderloin,Meat/Animal Product
+jalapeno,Plant/Vegetable
+strawberry,Plant/Vegetable
+garlic,Plant/Vegetable
+broccoli,Plant/Vegetable
+parsley,Plant/Vegetable
+radish,Plant/Vegetable
+asparagus,Plant/Vegetable
+tomato,Plant/Vegetable
+carrot,Plant/Vegetable
+cabbage,Plant/Vegetable
+potato,Plant/Vegetable
+spinach,Plant/Vegetable
+lettuce,Plant/Vegetable
+basil,Plant/Vegetable
+cucumber,Plant/Vegetable
+celery,Plant/Vegetable
+dill,Plant/Vegetable
+kale,Plant/Vegetable
+chervil,Plant/Vegetable
+agave,Plant/Vegetable
+oyster,Seafood
+shrimp,Seafood
+bluefish,Seafood
+anchovy,Seafood
+turbot,Seafood
+crab,Seafood
+salmon,Seafood
+crayfish,Seafood
+conch,Seafood
+grouper,Seafood
+scallop,Seafood
+caviar,Seafood
+clam,Seafood
+prawn,Seafood
+lobster,Seafood
+walleye,Seafood
+kelp,Seafood
+catfish,Seafood
+squid,Seafood
+abalone,Seafood

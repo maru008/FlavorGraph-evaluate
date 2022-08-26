@@ -1,0 +1,536 @@
+,Id,f1,f2,TF
+0,13,potato,tomato,F
+1,14,potato,banana,F
+2,15,potato,beef,T
+3,16,potato,vinegar,T
+4,42,cauliflower,beef,T
+5,44,onion,garlic,T
+6,72,peach,beef,T
+7,78,banana,potato,T
+8,80,banana,milk,T
+9,82,watermelon,shrimp,F
+10,97,pork,cauliflower,T
+11,100,beef,potato,T
+12,105,chicken meat,garlic,F
+13,130,catfish,tofu,T
+14,145,basil,tomato,T
+15,146,coriander,oil,T
+16,157,potato,eel,T
+17,161,onion,pork,T
+18,166,watermelon,octopus,T
+19,167,watermelon,squid,T
+20,170,pineapple,avocado,T
+21,171,pineapple,vinegar,F
+22,175,parsley,butter,T
+23,176,parsley,cucumber,F
+24,184,carrot,butter,T
+25,185,green pepper,olive oil,T
+26,187,green pepper,carrot,F
+27,188,paprika,olive oil,T
+28,190,tomato,olive oil,T
+29,191,tomato,cucumber,F
+30,194,almond,broccoli,T
+31,197,avocado,salmon,T
+32,210,broccoli,sardine,T
+33,227,mango,cheese,T
+34,243,cucumber,tomato,F
+35,247,corn,milk,T
+36,259,celery,cheese,F
+37,262,grapefruit,avocado,T
+38,277,pork,onion,T
+39,285,sugar,fat,F
+40,291,tomato,cucumber,F
+41,298,tuna,milk,T
+42,304,pineapple,pork,T
+43,314,mackerel,miso,T
+44,340,potato,shrimp,T
+45,349,tomato,sardine,T
+46,350,eggplant,garlic,T
+47,354,cauliflower,sweet potato,T
+48,361,avocado,tofu,T
+49,362,onion,saffron,T
+50,367,cabbage,miso,T
+51,368,celery,squid,T
+52,388,plum,chicken meat,T
+53,396,rice,squid,T
+54,419,octopus,carrot,T
+55,421,eel,cucumber,T
+56,431,pork,cucumber,T
+57,436,miso,garlic,T
+58,444,pepper,rice,T
+59,451,cardamom,coffee,T
+60,455,asparagus,carrot,T
+61,456,asparagus,broccoli,T
+62,460,asparagus,chicken meat,T
+63,465,asparagus,avocado,T
+64,466,asparagus,celery,T
+65,467,asparagus,garlic,T
+66,468,asparagus,onion,T
+67,574,cauliflower,squid,T
+68,576,cauliflower,eel,T
+69,580,cauliflower,almond,T
+70,583,cauliflower,mayonnaise,T
+71,593,cabbage,grapefruit,T
+72,597,cabbage,eel,T
+73,598,cabbage,carrot,T
+74,609,cucumber,watermelon,T
+75,612,cucumber,lettuce,T
+76,616,cucumber,squid,T
+77,617,cucumber,octopus,T
+78,619,cucumber,vinegar,T
+79,620,cucumber,grapefruit,T
+80,679,sweet potato,carrot,T
+81,688,sweet potato,milk,T
+82,691,sweet potato,green pepper,T
+83,765,potato,cucumber,T
+84,769,potato,peach,T
+85,770,potato,banana,T
+86,775,potato,broccoli,T
+87,776,potato,vinegar,T
+88,777,potato,chicken meat,T
+89,780,potato,bacon,T
+90,802,celery,cucumber,T
+91,803,celery,watermelon,T
+92,807,celery,potato,T
+93,812,celery,garlic,T
+94,815,celery,cabbage,T
+95,816,celery,chicken meat,T
+96,817,celery,cheese,T
+97,820,celery,shrimp,T
+98,855,onion,chicken meat,T
+99,862,onion,celery,T
+100,865,onion,potato,T
+101,866,onion,tomato,T
+102,868,onion,green pepper,T
+103,909,tomato,potato,T
+104,910,tomato,broccoli,T
+105,911,tomato,garlic,T
+106,912,tomato,onion,T
+107,913,tomato,milk,T
+108,914,tomato,cabbage,T
+109,919,tomato,cauliflower,T
+110,920,tomato,green pepper,T
+111,921,tomato,parsley,T
+112,922,tomato,vinegar,T
+113,927,tomato,squid,T
+114,933,eggplant,carrot,T
+115,938,eggplant,tomato,T
+116,943,eggplant,green pepper,T
+117,963,carrot,onion,T
+118,965,carrot,celery,T
+119,966,carrot,tofu,T
+120,968,carrot,cabbage,T
+121,970,carrot,tomato,T
+122,975,carrot,broccoli,T
+123,976,carrot,green pepper,T
+124,1019,parsley,carrot,T
+125,1020,parsley,green pepper,T
+126,1021,parsley,salmon,T
+127,1026,parsley,eel,T
+128,1028,parsley,milk,T
+129,1036,green pepper,squid,T
+130,1037,green pepper,onion,T
+131,1040,green pepper,celery,T
+132,1048,green pepper,eggplant,T
+133,1050,green pepper,mushroom,T
+134,1069,broccoli,garlic,T
+135,1070,broccoli,onion,T
+136,1071,broccoli,green pepper,T
+137,1072,broccoli,vinegar,T
+138,1074,broccoli,tomato,T
+139,1075,broccoli,eggplant,T
+140,1076,broccoli,carrot,T
+141,1079,broccoli,sardine,T
+142,1081,broccoli,olive oil,T
+143,1086,broccoli,cauliflower,T
+144,1087,broccoli,squid,T
+145,1210,lettuce,milk,T
+146,1214,lettuce,mackerel,T
+147,1215,lettuce,sardine,T
+148,1217,lettuce,squid,T
+149,1219,lettuce,cucumber,T
+150,1226,lettuce,beef,T
+151,1227,lettuce,rice,T
+152,1282,squid,chicken meat,T
+153,1286,squid,rice,T
+154,1287,squid,octopus,T
+155,1288,squid,mackerel,T
+156,1291,squid,olive oil,T
+157,1296,squid,broccoli,T
+158,1298,squid,tomato,T
+159,1304,sardine,milk,T
+160,1309,sardine,olive oil,T
+161,1312,sardine,carrot,T
+162,1315,sardine,sweet potato,T
+163,1317,sardine,almond,T
+164,1319,eel,tomato,T
+165,1320,eel,green pepper,T
+166,1321,eel,broccoli,T
+167,1325,eel,onion,T
+168,1335,eel,squid,T
+169,1336,eel,octopus,T
+170,1337,eel,sardine,T
+171,1340,shrimp,celery,T
+172,1343,shrimp,squid,T
+173,1344,shrimp,octopus,T
+174,1347,shrimp,garlic,T
+175,1348,shrimp,onion,T
+176,1350,shrimp,potato,T
+177,1352,shrimp,watermelon,T
+178,1354,shrimp,cucumber,T
+179,1392,crab,chicken meat,T
+180,1396,crab,squid,T
+181,1397,crab,octopus,T
+182,1400,crab,sardine,T
+183,1401,crab,mackerel,T
+184,1407,crab,cabbage,T
+185,1411,salmon,onion,T
+186,1412,salmon,broccoli,T
+187,1414,salmon,cabbage,T
+188,1417,salmon,potato,T
+189,1418,salmon,rice,T
+190,1428,mackerel,broccoli,T
+191,1434,mackerel,miso,T
+192,1435,mackerel,eggplant,T
+193,1436,mackerel,blueberry,T
+194,1438,mackerel,margarine,T
+195,1441,mackerel,olive oil,T
+196,1442,mackerel,green pepper,T
+197,1499,octopus,squid,T
+198,1505,octopus,chicken meat,T
+199,1506,octopus,vinegar,T
+200,1513,octopus,potato,T
+201,1514,octopus,broccoli,T
+202,1568,flounder,octopus,T
+203,1576,flounder,cabbage,T
+204,1578,flounder,sardine,T
+205,1579,flounder,mackerel,T
+206,1580,flounder,squid,T
+207,1772,mushroom,tomato,T
+208,1775,mushroom,carrot,T
+209,1778,mushroom,cucumber,T
+210,1779,mushroom,squid,T
+211,1780,mushroom,spaghetti,T
+212,1782,mushroom,salmon,T
+213,1783,mushroom,lettuce,T
+214,1784,mushroom,beef,T
+215,1785,beef,garlic,T
+216,1786,beef,tomato,T
+217,1795,beef,cucumber,T
+218,1796,beef,celery,T
+219,1800,beef,milk,T
+220,1801,beef,cheese,T
+221,1820,pork,garlic,T
+222,1821,pork,onion,T
+223,1829,pork,vinegar,T
+224,1831,pork,sweet potato,T
+225,1878,milk,squid,T
+226,1879,milk,octopus,T
+227,1880,milk,onion,T
+228,1881,milk,sardine,T
+229,1884,milk,crab,T
+230,1886,milk,beef,T
+231,1890,cheese,milk,T
+232,1892,cheese,oil,T
+233,1893,cheese,celery,T
+234,1897,cheese,tomato,T
+235,1905,cheese,rice,T
+236,1978,grapefruit,broccoli,T
+237,1979,grapefruit,tomato,T
+238,1980,grapefruit,eggplant,T
+239,1981,grapefruit,squid,T
+240,1982,grapefruit,carrot,T
+241,1984,grapefruit,peach,T
+242,1990,grapefruit,melon,T
+243,1991,grapefruit,oil,T
+244,1992,grapefruit,shrimp,T
+245,1994,grapefruit,vinegar,T
+246,1996,grapefruit,mushroom,T
+247,1997,grapefruit,celery,T
+248,1998,pineapple,parsley,T
+249,2000,pineapple,green pepper,T
+250,2007,pineapple,potato,T
+251,2008,pineapple,asparagus,T
+252,2013,pineapple,vinegar,T
+253,2020,banana,cabbage,T
+254,2023,banana,celery,T
+255,2025,banana,tomato,T
+256,2035,banana,cottage cheese,T
+257,2054,plum,cucumber,T
+258,2055,plum,lettuce,T
+259,2057,plum,squid,T
+260,2059,plum,celery,T
+261,2065,plum,onion,T
+262,2066,plum,green pepper,T
+263,2068,plum,oil,T
+264,2070,plum,wine,T
+265,2071,plum,vinegar,T
+266,2072,plum,sweet potato,T
+267,2129,olive oil,octopus,T
+268,2130,olive oil,squid,T
+269,2131,olive oil,tomato,T
+270,2132,olive oil,eel,T
+271,2135,olive oil,green pepper,T
+272,2136,olive oil,pasta,T
+273,2138,olive oil,eggplant,T
+274,2140,olive oil,asparagus,T
+275,2145,rice,eggplant,T
+276,2150,rice,celery,T
+277,2151,rice,watermelon,T
+278,2153,rice,cabbage,T
+279,2157,rice,carrot,T
+280,2159,rice,broccoli,T
+281,2186,corn,potato,T
+282,2188,corn,celery,T
+283,2190,corn,green pepper,T
+284,2199,corn,shrimp,T
+285,2361,almond,tomato,T
+286,2365,almond,mackerel,T
+287,2366,almond,squid,T
+288,2367,almond,octopus,T
+289,2374,almond,avocado,T
+290,2375,almond,sardine,T
+291,2492,cocoa,potato,T
+292,2496,cocoa,milk,T
+293,2501,cocoa,cucumber,T
+294,2507,coffee,watermelon,T
+295,2508,coffee,banana,T
+296,2514,coffee,mint,T
+297,2519,coffee,grapefruit,T
+298,2541,wine,eggplant,T
+299,2543,wine,banana,T
+300,2548,wine,squid,T
+301,2549,wine,carrot,T
+302,2552,wine,broccoli,T
+303,2553,wine,eel,T
+304,2554,wine,beef,T
+305,2556,wine,pork,T
+306,2559,coriander,asparagus,T
+307,2563,coriander,cucumber,T
+308,2564,coriander,potato,T
+309,2566,coriander,watermelon,T
+310,2568,coriander,octopus,T
+311,2569,coriander,garlic,T
+312,2574,coriander,broccoli,T
+313,2575,coriander,beef,T
+314,2608,garlic,broccoli,T
+315,2611,garlic,onion,T
+316,2614,garlic,salmon,T
+317,2616,garlic,potato,T
+318,2617,garlic,squid,T
+319,2618,garlic,octopus,T
+320,2705,onion,salmon,T
+321,2708,asparagus,cheese,T
+322,2716,potato,rice,T
+323,2717,potato,octopus,T
+324,2735,zucchini,eggplant,T
+325,2747,corn,lettuce,T
+326,2751,eggplant,pork,T
+327,2753,green pepper,octopus,T
+328,2755,mint,watermelon,T
+329,2768,watermelon,cucumber,T
+330,2769,blueberry,milk,T
+331,2778,sweet potato,shrimp,T
+332,2779,sweet potato,cinnamon,T
+333,2782,mushroom,broccoli,T
+334,2786,squid,broccoli,T
+335,2796,pomegranate,vinegar,T
+336,2830,shrimp,cabbage,T
+337,2890,garlic,pork,T
+338,2891,garlic,octopus,T
+339,2905,coriander,shrimp,T
+340,2907,coriander,rice,T
+341,2911,mint,peach,T
+342,2912,basil,tofu,T
+343,2913,basil,pasta,T
+344,2922,nutmeg,beef,T
+345,2923,nutmeg,cinnamon,T
+346,2925,cinnamon,sweet potato,T
+347,2932,cumin,beef,T
+348,2934,mustard,chicken meat,T
+349,2936,pepper,cabbage,T
+350,2937,pepper,sweet potato,T
+351,2942,rice,chicken meat,T
+352,2970,tofu,cucumber,T
+353,2972,tomato,tofu,T
+354,2973,tomato,basil,T
+355,2974,tomato,cucumber,F
+356,2979,green pepper,chicken meat,T
+357,2980,paprika,chicken meat,T
+358,2992,corn,pork,T
+359,2993,corn,potato,T
+360,3003,cabbage,chicken meat,T
+361,3004,cabbage,onion,T
+362,3005,cabbage,carrot,F
+363,3006,cabbage,cucumber,F
+364,3008,lettuce,tofu,T
+365,3031,celery,squid,T
+366,3032,celery,pork,T
+367,3047,broccoli,potato,T
+368,3050,asparagus,tomato,T
+369,3052,asparagus,tofu,F
+370,3056,onion,vinegar,T
+371,3057,onion,potato,T
+372,3076,carrot,beef,T
+373,3077,potato,onion,T
+374,3078,potato,celery,T
+375,3079,potato,cucumber,F
+376,3080,sweet potato,rice,T
+377,3126,peach,olive oil,T
+378,3131,melon,potato,T
+379,3132,melon,onion,T
+380,3134,watermelon,pork,T
+381,3137,pineapple,chicken meat,T
+382,3138,pineapple,cucumber,T
+383,3139,pineapple,milk,F
+384,3159,pomegranate,onion,T
+385,3160,pomegranate,cabbage,T
+386,3166,grapefruit,carrot,T
+387,3176,almond,carrot,T
+388,3180,salmon,onion,T
+389,3181,salmon,broccoli,T
+390,3185,sardine,tomato,T
+391,3194,eel,rice,T
+392,3209,shrimp,cabbage,T
+393,3212,crab,broccoli,T
+394,3215,squid,saffron,T
+395,3216,squid,asparagus,T
+396,3218,octopus,paprika,T
+397,3241,pork,paprika,T
+398,3243,chicken meat,rice,T
+399,3244,chicken meat,tomato,T
+400,3252,milk,rice,T
+401,3254,cheese,celery,T
+402,3259,butter,sweet potato,T
+403,3264,salt,pork,T
+404,3267,miso,squid,T
+405,3268,miso,pork,T
+406,3269,vinegar,sardine,T
+407,3284,cucumber,pork,T
+408,3285,cucumber,chicken meat,T
+409,3296,corn,chicken meat,T
+410,3297,corn,milk,T
+411,3299,tomato,tofu,T
+412,3301,tomato,beef,T
+413,3302,eggplant,paprika,T
+414,3303,eggplant,eel,T
+415,3305,green pepper,beef,T
+416,3306,green pepper,paprika,T
+417,3308,asparagus,chicken meat,T
+418,3310,cauliflower,broccoli,T
+419,3312,cabbage,milk,T
+420,3313,cabbage,pork,T
+421,3314,cabbage,carrot,T
+422,3318,celery,pork,T
+423,3319,onion,salmon,T
+424,3320,onion,pork,T
+425,3325,garlic,squid,T
+426,3335,lettuce,chicken meat,T
+427,3336,lettuce,tomato,T
+428,3337,lettuce,pork,T
+429,3350,potato,pork,T
+430,3351,potato,carrot,T
+431,3359,carrot,pork,T
+432,3360,carrot,onion,T
+433,3361,carrot,broccoli,T
+434,3379,watermelon,melon,T
+435,3382,pineapple,pork,T
+436,3383,banana,pork,T
+437,3388,melon,milk,T
+438,3391,almond,pork,T
+439,3402,sardine,carrot,T
+440,3403,sardine,tomato,T
+441,3416,salmon,carrot,T
+442,3417,salmon,tomato,T
+443,3418,salmon,milk,T
+444,3420,mackerel,carrot,T
+445,3421,mackerel,broccoli,T
+446,3437,flounder,carrot,T
+447,3452,shrimp,tomato,T
+448,3458,squid,tomato,T
+449,3459,squid,broccoli,T
+450,3460,octopus,tomato,T
+451,3462,beef,green pepper,T
+452,3466,chicken meat,carrot,T
+453,3467,pork,broccoli,T
+454,3468,pork,carrot,T
+455,3469,pork,carrot,T
+456,3472,milk,pork,T
+457,3473,cheese,almond,T
+458,3479,tofu,pork,T
+459,3483,asparagus,tofu,F
+460,3517,cabbage,carrot,F
+461,3518,cucumber,shrimp,T
+462,3519,cucumber,tomato,F
+463,3520,cucumber,garlic,T
+464,3521,cucumber,green pepper,F
+465,3563,sweet potato,milk,F
+466,3565,sweet potato,green pepper,T
+467,3576,potato,onion,T
+468,3604,onion,beef,T
+469,3605,onion,potato,T
+470,3614,tomato,shrimp,F
+471,3615,tomato,cucumber,F
+472,3616,tomato,chicken meat,T
+473,3632,carrot,celery,T
+474,3649,green pepper,beef,T
+475,3650,green pepper,cucumber,F
+476,3669,mushroom,chicken meat,T
+477,3671,mango,chicken meat,T
+478,3672,mango,garlic,F
+479,3704,cauliflower,garlic,T
+480,3706,broccoli,onion,T
+481,3709,carrot,onion,T
+482,3719,onion,miso,T
+483,3720,tomato,cucumber,T
+484,3721,tomato,olive oil,T
+485,3723,tomato,cheese,T
+486,3724,green pepper,pork,T
+487,3725,green pepper,olive oil,T
+488,3726,eggplant,carrot,T
+489,3727,eggplant,olive oil,T
+490,3729,broccoli,avocado,T
+491,3730,broccoli,shrimp,T
+492,3731,broccoli,potato,T
+493,3732,cauliflower,milk,T
+494,3733,cauliflower,pork,T
+495,3737,cucumber,eggplant,T
+496,3739,zucchini,olive oil,T
+497,3740,corn,milk,T
+498,3749,carrot,cheese,T
+499,3752,onion,pork,T
+500,3753,onion,chicken meat,T
+501,3755,sweet potato,carrot,T
+502,3757,potato,milk,T
+503,3770,asparagus,banana,T
+504,3771,asparagus,chicken meat,T
+505,3774,arugula,tofu,T
+506,3775,celery,beef,T
+507,3780,cabbage,milk,T
+508,3802,garlic,paprika,T
+509,3814,milk,chicken meat,T
+510,3815,milk,salmon,T
+511,3817,cheese,sweet potato,T
+512,3826,tofu,vinegar,T
+513,3834,pasta,olive oil,T
+514,3838,almond,mackerel,T
+515,3841,beef,broccoli,T
+516,3842,pork,onion,T
+517,3852,mackerel,onion,T
+518,3853,mackerel,tomato,T
+519,3862,sardine,tofu,T
+520,3864,salmon,potato,T
+521,3865,salmon,tomato,T
+522,3883,eel,tomato,T
+523,3887,squid,potato,T
+524,3890,octopus,celery,T
+525,3892,shrimp,cheese,T
+526,3893,crab,broccoli,T
+527,3894,crab,carrot,T
+528,3909,banana,pork,T
+529,3910,banana,chocolate,T
+530,3915,watermelon,melon,T
+531,3924,pineapple,pork,T
+532,3932,mango,pork,T
+533,3935,cocoa,marshmallow,T
+534,3938,olive oil,cheese,T

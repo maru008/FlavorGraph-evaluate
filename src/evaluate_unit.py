@@ -3,12 +3,6 @@ import pickle
 import numpy as np
 from sklearn.neural_network import MLPClassifier
 
-
-# class evaluate_classification:
-#     def __init__(self,file_name):
-        
-    
-
 def node_name2vec(name,file):
     with open(file, "rb") as pickle_file:
         vectors = pickle.load(pickle_file)

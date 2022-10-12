@@ -74,3 +74,6 @@ scp miluser@192.168.100.66:/home/miluser/yoshimaru_citrine_backup/yoshimaru_env/
 scp miluser@192.168.100.66:/home/miluser/yoshimaru_citrine_backup/yoshimaru_env/FlavorGraph/src_Metapath2vec/output/Metapath2vec.pickle /Users/naokiyoshimaru/Desktop/FlavorGraph-evaluate/embedding_data 
 scp miluser@192.168.100.66:/home/miluser/yoshimaru_citrine_backup/yoshimaru_env/FlavorGraph/src_Metapath2vec/output/Metapath2vec+CSP.pickle /Users/naokiyoshimaru/Desktop/FlavorGraph-evaluate/embedding_data 
 scp miluser@192.168.100.66:/home/miluser/yoshimaru_citrine_backup/yoshimaru_env/FlavorGraph/src_Metapath2vec+NPMI+M2V/output/Metapath2vec+NPMI+Morgan2binary_445.pickle /Users/naokiyoshimaru/Desktop/FlavorGraph-evaluate/embedding_data 
+
+scp miluser@192.168.100.66:/home/miluser/yoshimaru_citrine_backup/yoshimaru_env/FlavorGraph/src_Metapath2vec+M2V/output/Metapath2vec+M2V_chembl_300_w10.pickle /Users/naokiyoshimaru/Desktop/FlavorGraph-evaluate/embedding_data 
+scp miluser@192.168.100.66:/home/miluser/yoshimaru_citrine_backup/yoshimaru_env/FlavorGraph/src_Metapath2vec+NPMI+M2V/output/Metapath2vec+NPMI+M2V_chembl_300_w10.pickle /Users/naokiyoshimaru/Desktop/FlavorGraph-evaluate/embedding_data 

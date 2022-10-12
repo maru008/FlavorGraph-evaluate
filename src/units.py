@@ -19,7 +19,7 @@ import optuna.integration.lightgbm as opt_lgb
 from catboost import Pool,CatBoost
 from catboost import CatBoostClassifier
 
-
+    
 class MaltiClassification_unit:
     def __init__(self,csv_path,embed_path,ratio:float):
         eval_data = pd.read_csv(csv_path)

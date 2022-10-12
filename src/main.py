@@ -6,9 +6,10 @@ from units import MaltiClassification_unit
 
 # enbd_data_ls = os.listdir("../embedding_data")
 enbd_data_ls = [
-                'Metapath2vec.pickle',
-                'Metapath2vec+NPMI.pickle',
+                # 'Metapath2vec.pickle',
+                # 'Metapath2vec+NPMI.pickle',
                 'Metapath2vec+CSP.pickle',
+                'Metapath2vec+NPMI+CSP.pickle',
                 # 'Metapath2vec+HiddenFP.pickle',
                 # 'Metapath2vec+Hidden_PubchemFP_100.pickle',
                 # 'Metapath2vec+Hidden_PubchemFP_300.pickle',
@@ -17,14 +18,15 @@ enbd_data_ls = [
                 # 'Metapath2vec+Morgan2binary_100.pickle',
                 # 'Metapath2vec+PubchemFP_W2V.pickle',
                 # 'Metapath2vec+M2Vtrain_100.pickle',
-                'Metapath2vec+Morgan2binary_445.pickle',
-                'Metapath2vec+M2Vtrain_300_w5.pickle',
-                'Metapath2vec+NPMI+CSP.pickle',
-                'Metapath2vec+NPMI+Morgan2binary_445.pickle',
-                'Metapath2vec+NPMI+Mol2vec_w5.pickle'
+                # 'Metapath2vec+Morgan2binary_445.pickle',
+                # 'Metapath2vec+M2Vtrain_300_w5.pickle',
+                # 'Metapath2vec+NPMI+Morgan2binary_445.pickle',
+                # 'Metapath2vec+NPMI+Mol2vec_w5.pickle'
                 # 'Metapath2vec+M2Vtrain.pickle',
                 # 'Metapath2vec+M2Vtrain_300_w15.pickle',
                 # 'Metapath2vec+M2Vtrain_300_w20.pickle'
+                'Metapath2vec+M2V_chembl_300_w10.pickle',
+                'Metapath2vec+NPMI+M2V_chembl_300_w10.pickle'
                 ]
 
 def evaluate_main(PATH,train_raito):
